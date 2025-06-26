@@ -1,4 +1,4 @@
-# Indium-Project-Smard-Dashboaard
+# Indium-Project-Smart-Dashboard
 A Smart Slack Dashboard Using SlackAPI streamlit psycopg2 and PostgreSQL
 
 project/
